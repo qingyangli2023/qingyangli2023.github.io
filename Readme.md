@@ -2,15 +2,15 @@
 
 Machine learning： [kaggle](www.kaggle.com)
 
-- `qylixxxx@xxx.com` / `lelexxxx`
+- `qylixxxx@xxx.com` / `lexxxxx`
 
 Latex:  [overleaf](overleaf.com)
 
-- `qylixxxx@xxx.com ` / `lelexxxx`
+- `qylixxxx@xxx.com ` / `lexxxxxx`
 
 Github: [github](github.com)
 
-- `qylixxxx@xxx.com` / `lelexxxpku`
+- `qylixxxx@xxx.com` / `lexxxxxpku`
 
 ### 吴恩达机器学习笔记 
 5. octave 教程

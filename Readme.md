@@ -23,3 +23,5 @@ Github: [github](github.com)
   - [priceY.dat](priceY.dat)
   
 [课程作业python版](https://github.com/qingyangli2023/Coursera-ML-AndrewNg-Notes/tree/master/code)
+
+[142页反向传播算法-理解](https://cloud.tencent.com/developer/article/2076675)

@@ -1,3 +1,7 @@
+### 课程表
+ - math
+ - english
+
 ### 常用网站
 
 Machine learning： [kaggle](www.kaggle.com)
